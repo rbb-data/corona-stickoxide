@@ -1,7 +1,7 @@
 .conda/
-.jupyter/
 .ipython/
-.ipynb_checkpoints/
+.jupyter/
+.local/
 
 # Created by https://www.gitignore.io/api/python,jupyter
 # Edit at https://www.gitignore.io/?templates=python,jupyter

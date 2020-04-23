@@ -1,0 +1,474 @@
+	id	name	datetime	val
+0	BBI-001	Brandenburg - Flughafen Schönefeld	2020-02-02 00:00:00+01:00	4.949015419574726
+1	BBI-001	Brandenburg - Flughafen Schönefeld	2020-02-09 00:00:00+01:00	9.03665349334095
+2	BBI-001	Brandenburg - Flughafen Schönefeld	2020-02-16 00:00:00+01:00	8.914748067400343
+3	BBI-001	Brandenburg - Flughafen Schönefeld	2020-02-23 00:00:00+01:00	6.524937904409627
+4	BBI-001	Brandenburg - Flughafen Schönefeld	2020-03-01 00:00:00+01:00	7.684059318331807
+5	BBI-001	Brandenburg - Flughafen Schönefeld	2020-03-08 00:00:00+01:00	7.521092382391358
+6	BBI-001	Brandenburg - Flughafen Schönefeld	2020-03-15 00:00:00+01:00	7.184478465697152
+7	BBI-001	Brandenburg - Flughafen Schönefeld	2020-03-22 00:00:00+01:00	13.647618678393272
+8	BBI-001	Brandenburg - Flughafen Schönefeld	2020-03-29 00:00:00+01:00	8.245060697169377
+9	BBI-001	Brandenburg - Flughafen Schönefeld	2020-04-05 00:00:00+02:00	8.726597889035872
+10	BBI-001	Brandenburg - Flughafen Schönefeld	2020-04-12 00:00:00+02:00	
+11	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-02-02 00:00:00+01:00	2.2650463091532353
+12	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-02-09 00:00:00+01:00	5.600725033516199
+13	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-02-16 00:00:00+01:00	5.1632461059615515
+14	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-02-23 00:00:00+01:00	4.6357329474506885
+15	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-03-01 00:00:00+01:00	4.599062493572902
+16	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-03-08 00:00:00+01:00	6.21256109122741
+17	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-03-15 00:00:00+01:00	9.33420718240069
+18	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-03-22 00:00:00+01:00	10.014413116429674
+19	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-03-29 00:00:00+01:00	7.049655371920858
+20	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-04-05 00:00:00+02:00	6.69274233347468
+21	DEBB007	Brandenburg - Elsterwerda - Lauchhammerstr.	2020-04-12 00:00:00+02:00	2.8284271247461903
+22	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-02-02 00:00:00+01:00	2.7659288347389888
+23	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-02-09 00:00:00+01:00	6.3439910026757
+24	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-02-16 00:00:00+01:00	7.348925151608665
+25	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-02-23 00:00:00+01:00	4.177143941548069
+26	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-03-01 00:00:00+01:00	6.145187587201334
+27	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-03-08 00:00:00+01:00	6.938926616906274
+28	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-03-15 00:00:00+01:00	5.959369008954502
+29	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-03-22 00:00:00+01:00	11.516577594815793
+30	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-03-29 00:00:00+01:00	8.468110501291763
+31	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-04-05 00:00:00+02:00	8.344928488602962
+32	DEBB021	Brandenburg - Potsdam - Bassinplatz	2020-04-12 00:00:00+02:00	1.4142135623730951
+33	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-02-02 00:00:00+01:00	1.7424786610050556
+34	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-02-09 00:00:00+01:00	3.280425567195584
+35	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-02-16 00:00:00+01:00	5.286242642694818
+36	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-02-23 00:00:00+01:00	2.8248712091280934
+37	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-03-01 00:00:00+01:00	7.057018076679976
+38	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-03-08 00:00:00+01:00	4.189340928665914
+39	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-03-15 00:00:00+01:00	4.4303929611983195
+40	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-03-22 00:00:00+01:00	5.613559236553152
+41	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-03-29 00:00:00+01:00	6.412907903491174
+42	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-04-05 00:00:00+02:00	4.214656626807619
+43	DEBB029	Brandenburg - Schwedt (Oder) - Helbigstr.	2020-04-12 00:00:00+02:00	0.0
+44	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-02-02 00:00:00+01:00	0.9286112429750732
+45	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-02-09 00:00:00+01:00	4.144454624505855
+46	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-02-16 00:00:00+01:00	4.6320562661039055
+47	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-02-23 00:00:00+01:00	3.0184066066575213
+48	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-03-01 00:00:00+01:00	3.309244295060614
+49	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-03-08 00:00:00+01:00	6.2917145540333514
+50	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-03-15 00:00:00+01:00	5.306179986652887
+51	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-03-22 00:00:00+01:00	5.573953522536486
+52	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-03-29 00:00:00+01:00	9.404960722867848
+53	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-04-05 00:00:00+02:00	4.724699250261093
+54	DEBB032	Brandenburg - Eisenhüttenstadt - Karl-Marx-Str.	2020-04-12 00:00:00+02:00	3.5355339059327378
+55	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-02-02 00:00:00+01:00	8.205247525609556
+56	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-02-09 00:00:00+01:00	12.778541858196146
+57	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-02-16 00:00:00+01:00	12.379075771884906
+58	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-02-23 00:00:00+01:00	13.707959293408154
+59	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-03-01 00:00:00+01:00	15.667201973594432
+60	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-03-08 00:00:00+01:00	12.746059328962913
+61	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-03-15 00:00:00+01:00	13.566236456720699
+62	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-03-22 00:00:00+01:00	15.78715580759219
+63	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-03-29 00:00:00+01:00	6.797258791304666
+64	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-04-05 00:00:00+02:00	9.920032412081307
+65	DEBB044	Brandenburg - Cottbus - Bahnhofstraße	2020-04-12 00:00:00+02:00	0.7071067811865476
+66	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-02-02 00:00:00+01:00	12.675935777136413
+67	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-02-09 00:00:00+01:00	16.2061278528491
+68	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-02-16 00:00:00+01:00	13.857944617715098
+69	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-02-23 00:00:00+01:00	13.946155724106836
+70	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-03-01 00:00:00+01:00	16.611496941108744
+71	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-03-08 00:00:00+01:00	15.512575450717566
+72	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-03-15 00:00:00+01:00	16.9955293606647
+73	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-03-22 00:00:00+01:00	19.099914287622617
+74	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-03-29 00:00:00+01:00	14.119993464041425
+75	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-04-05 00:00:00+02:00	14.249249895139355
+76	DEBB045	Brandenburg - Frankfurt (Oder) - Leipziger Str.	2020-04-12 00:00:00+02:00	0.0
+77	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-02-02 00:00:00+01:00	2.0412414523193156
+78	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-02-09 00:00:00+01:00	5.753090812095318
+79	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-02-16 00:00:00+01:00	7.357405503297252
+80	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-02-23 00:00:00+01:00	5.400072737631754
+81	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-03-01 00:00:00+01:00	7.2481746028025364
+82	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-03-08 00:00:00+01:00	7.789519308891091
+83	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-03-15 00:00:00+01:00	6.0623101153757535
+84	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-03-22 00:00:00+01:00	6.8840297322975
+85	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-03-29 00:00:00+01:00	4.5162357713220285
+86	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-04-05 00:00:00+02:00	5.760322555165593
+87	DEBB048	Brandenburg - Neuruppin - Gerhard-Hauptmann-Str.	2020-04-12 00:00:00+02:00	2.1213203435596424
+88	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-02-02 00:00:00+01:00	3.1619912090006035
+89	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-02-09 00:00:00+01:00	11.979809075768838
+90	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-02-16 00:00:00+01:00	10.278721920685616
+91	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-02-23 00:00:00+01:00	8.039942967451607
+92	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-03-01 00:00:00+01:00	11.397738070939011
+93	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-03-08 00:00:00+01:00	14.010046448272348
+94	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-03-15 00:00:00+01:00	9.979303861507974
+95	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-03-22 00:00:00+01:00	15.38620339748937
+96	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-03-29 00:00:00+01:00	13.52663192745231
+97	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-04-05 00:00:00+02:00	8.863851548365252
+98	DEBB049	Brandenburg - Brandenburg a.d. Havel - Neuendorfer Str.	2020-04-12 00:00:00+02:00	0.0
+99	DEBB053	Brandenburg - Buckow - Hasenholz	2020-02-02 00:00:00+01:00	2.104171150805955
+100	DEBB053	Brandenburg - Buckow - Hasenholz	2020-02-09 00:00:00+01:00	3.712201384859996
+101	DEBB053	Brandenburg - Buckow - Hasenholz	2020-02-16 00:00:00+01:00	2.6011337485552
+102	DEBB053	Brandenburg - Buckow - Hasenholz	2020-02-23 00:00:00+01:00	2.2231831873373946
+103	DEBB053	Brandenburg - Buckow - Hasenholz	2020-03-01 00:00:00+01:00	4.359176954882723
+104	DEBB053	Brandenburg - Buckow - Hasenholz	2020-03-08 00:00:00+01:00	3.8845592341292696
+105	DEBB053	Brandenburg - Buckow - Hasenholz	2020-03-15 00:00:00+01:00	4.061738402213794
+106	DEBB053	Brandenburg - Buckow - Hasenholz	2020-03-22 00:00:00+01:00	5.856607565847312
+107	DEBB053	Brandenburg - Buckow - Hasenholz	2020-03-29 00:00:00+01:00	4.23447907925519
+108	DEBB053	Brandenburg - Buckow - Hasenholz	2020-04-05 00:00:00+02:00	4.429516442122668
+109	DEBB053	Brandenburg - Buckow - Hasenholz	2020-04-12 00:00:00+02:00	0.0
+110	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-02-02 00:00:00+01:00	9.697508271028529
+111	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-02-09 00:00:00+01:00	12.178735845169935
+112	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-02-16 00:00:00+01:00	12.557004323108805
+113	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-02-23 00:00:00+01:00	12.988572767104774
+114	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-03-01 00:00:00+01:00	15.285791968874904
+115	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-03-08 00:00:00+01:00	14.058838789309462
+116	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-03-15 00:00:00+01:00	14.351347838210545
+117	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-03-22 00:00:00+01:00	14.169993565340018
+118	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-03-29 00:00:00+01:00	12.777171607107308
+119	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-04-05 00:00:00+02:00	13.018488311787653
+120	DEBB054	Brandenburg - Potsdam - Zeppelinstraße	2020-04-12 00:00:00+02:00	2.1213203435596424
+121	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-02-02 00:00:00+01:00	2.8628049486322054
+122	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-02-09 00:00:00+01:00	5.084623913542946
+123	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-02-16 00:00:00+01:00	6.824260948735454
+124	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-02-23 00:00:00+01:00	3.557779020644433
+125	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-03-01 00:00:00+01:00	4.528019254483835
+126	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-03-08 00:00:00+01:00	5.851890114060845
+127	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-03-15 00:00:00+01:00	4.3442168276942885
+128	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-03-22 00:00:00+01:00	9.346424669465623
+129	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-03-29 00:00:00+01:00	4.365080434890649
+130	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-04-05 00:00:00+02:00	5.337295893703124
+131	DEBB055	Brandenburg - Brandenburg a.d. Havel - Lilli-Friesicke-Str.	2020-04-12 00:00:00+02:00	0.0
+132	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-02-02 00:00:00+01:00	6.291816631286956
+133	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-02-09 00:00:00+01:00	11.681019420985066
+134	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-02-16 00:00:00+01:00	11.142832836481025
+135	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-02-23 00:00:00+01:00	8.92754314010253
+136	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-03-01 00:00:00+01:00	11.553572172281601
+137	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-03-08 00:00:00+01:00	10.846224042996504
+138	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-03-15 00:00:00+01:00	10.031087620393826
+139	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-03-22 00:00:00+01:00	14.65063206676265
+140	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-03-29 00:00:00+01:00	10.722609444020023
+141	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-04-05 00:00:00+02:00	9.549517892933324
+142	DEBB060	Brandenburg - Eberswalde - Breite Straße	2020-04-12 00:00:00+02:00	1.4142135623730951
+143	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-02-02 00:00:00+01:00	1.2825472842090009
+144	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-02-09 00:00:00+01:00	2.798841882227121
+145	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-02-16 00:00:00+01:00	6.816024556978538
+146	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-02-23 00:00:00+01:00	2.7659380793496977
+147	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-03-01 00:00:00+01:00	5.244897176583008
+148	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-03-08 00:00:00+01:00	4.445849299163815
+149	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-03-15 00:00:00+01:00	3.217913708314793
+150	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-03-22 00:00:00+01:00	4.130475492010102
+151	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-03-29 00:00:00+01:00	3.445390601735635
+152	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-04-05 00:00:00+02:00	3.5841298244109563
+153	DEBB063	Brandenburg - Wittenberge - Dr.-Wilhelm-Külz-Str.	2020-04-12 00:00:00+02:00	0.7071067811865476
+154	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-02-02 00:00:00+01:00	2.7346409032202414
+155	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-02-09 00:00:00+01:00	5.549785046071522
+156	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-02-16 00:00:00+01:00	5.347701498795226
+157	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-02-23 00:00:00+01:00	4.418188293388693
+158	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-03-01 00:00:00+01:00	4.45929775524323
+159	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-03-08 00:00:00+01:00	4.742409480008703
+160	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-03-15 00:00:00+01:00	5.43034436634611
+161	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-03-22 00:00:00+01:00	8.42124485784959
+162	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-03-29 00:00:00+01:00	6.189589366119089
+163	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-04-05 00:00:00+02:00	5.097422010107689
+164	DEBB064	Brandenburg - Cottbus - Gartenstraße	2020-04-12 00:00:00+02:00	0.0
+165	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-02-02 00:00:00+01:00	0.928611242975073
+166	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-02-09 00:00:00+01:00	2.5359687940806546
+167	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-02-16 00:00:00+01:00	1.8363313745136247
+168	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-02-23 00:00:00+01:00	1.8029436849206222
+169	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-03-01 00:00:00+01:00	1.6140257118860433
+170	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-03-08 00:00:00+01:00	1.63053579897248
+171	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-03-15 00:00:00+01:00	1.744589174748964
+172	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-03-22 00:00:00+01:00	2.0189786884877283
+173	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-03-29 00:00:00+01:00	2.1065171083973095
+174	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-04-05 00:00:00+02:00	1.718156036390036
+175	DEBB065	Brandenburg - Lütte (Belzig) - Feldstraße	2020-04-12 00:00:00+02:00	0.0
+176	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-02-02 00:00:00+01:00	0.5316095330711951
+177	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-02-09 00:00:00+01:00	3.1336940652271226
+178	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-02-16 00:00:00+01:00	2.52546201099449
+179	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-02-23 00:00:00+01:00	1.9994296306742705
+180	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-03-01 00:00:00+01:00	1.7507298567873173
+181	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-03-08 00:00:00+01:00	2.6325970896731365
+182	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-03-15 00:00:00+01:00	2.5695625774008266
+183	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-03-22 00:00:00+01:00	3.2668261699392165
+184	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-03-29 00:00:00+01:00	3.271463673791048
+185	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-04-05 00:00:00+02:00	2.144182652485522
+186	DEBB066	Brandenburg - Spreewald - Neu Zauche	2020-04-12 00:00:00+02:00	0.0
+187	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-02-02 00:00:00+01:00	1.6151457061744965
+188	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-02-09 00:00:00+01:00	4.396368748111961
+189	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-02-16 00:00:00+01:00	5.883044123166029
+190	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-02-23 00:00:00+01:00	4.805483513576823
+191	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-03-01 00:00:00+01:00	4.742469606025098
+192	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-03-08 00:00:00+01:00	7.6232857295974465
+193	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-03-15 00:00:00+01:00	4.817632285503259
+194	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-03-22 00:00:00+01:00	9.627569583377678
+195	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-03-29 00:00:00+01:00	6.804239099326197
+196	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-04-05 00:00:00+02:00	7.269799076604536
+197	DEBB067	Brandenburg - Nauen - Kreuztaler Str.	2020-04-12 00:00:00+02:00	0.7071067811865476
+198	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-02-02 00:00:00+01:00	8.236979184564966
+199	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-02-09 00:00:00+01:00	9.717502486573448
+200	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-02-16 00:00:00+01:00	11.94658145174734
+201	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-02-23 00:00:00+01:00	11.260389493380279
+202	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-03-01 00:00:00+01:00	11.20571929254284
+203	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-03-08 00:00:00+01:00	12.772398375047915
+204	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-03-15 00:00:00+01:00	13.59176979495718
+205	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-03-22 00:00:00+01:00	18.316423028252245
+206	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-03-29 00:00:00+01:00	11.265416214316422
+207	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-04-05 00:00:00+02:00	11.046748525233783
+208	DEBB068	Brandenburg - Bernau - Lohmühlenstraße	2020-04-12 00:00:00+02:00	1.4142135623730951
+209	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-02-02 00:00:00+01:00	12.554158038593071
+210	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-02-09 00:00:00+01:00	14.584931885176493
+211	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-02-16 00:00:00+01:00	13.403297422940854
+212	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-02-23 00:00:00+01:00	13.692657864128826
+213	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-03-01 00:00:00+01:00	18.866930800856593
+214	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-03-08 00:00:00+01:00	15.774352498576869
+215	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-03-15 00:00:00+01:00	16.46487369730675
+216	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-03-22 00:00:00+01:00	23.280174373208776
+217	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-03-29 00:00:00+01:00	13.652929949735858
+218	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-04-05 00:00:00+02:00	16.71125060484322
+219	DEBB073	Brandenburg - Potsdam - Großbeerenstr.	2020-04-12 00:00:00+02:00	0.7071067811865476
+220	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-02-02 00:00:00+01:00	1.8336626845141695
+221	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-02-09 00:00:00+01:00	6.0879285681992865
+222	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-02-16 00:00:00+01:00	4.969277583658439
+223	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-02-23 00:00:00+01:00	3.8190044116656443
+224	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-03-01 00:00:00+01:00	4.7961775054596405
+225	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-03-08 00:00:00+01:00	6.730925165128282
+226	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-03-15 00:00:00+01:00	7.430715525390254
+227	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-03-22 00:00:00+01:00	12.308599677309365
+228	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-03-29 00:00:00+01:00	6.379803869242321
+229	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-04-05 00:00:00+02:00	6.245751336062357
+230	DEBB075	Brandenburg - Potsdam - Seeburger Chaussee	2020-04-12 00:00:00+02:00	0.7071067811865476
+231	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-02-02 00:00:00+01:00	2.702320527229155
+232	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-02-09 00:00:00+01:00	3.808836505934865
+233	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-02-16 00:00:00+01:00	4.571205797252255
+234	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-02-23 00:00:00+01:00	4.305535856046129
+235	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-03-01 00:00:00+01:00	3.2993419430114757
+236	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-03-08 00:00:00+01:00	3.984840821534576
+237	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-03-15 00:00:00+01:00	5.050638216396857
+238	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-03-22 00:00:00+01:00	5.219448818784821
+239	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-03-29 00:00:00+01:00	4.8721553442576875
+240	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-04-05 00:00:00+02:00	3.7094159025484847
+241	DEBB083	Brandenburg - Spremberg - Lustgartenstr.	2020-04-12 00:00:00+02:00	0.0
+242	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-02-02 00:00:00+01:00	2.140025734641417
+243	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-02-09 00:00:00+01:00	7.110667416178824
+244	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-02-16 00:00:00+01:00	6.482585630194845
+245	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-02-23 00:00:00+01:00	3.954794277314158
+246	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-03-01 00:00:00+01:00	7.751962416076114
+247	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-03-08 00:00:00+01:00	8.427450411887607
+248	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-03-15 00:00:00+01:00	7.475249055781698
+249	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-03-22 00:00:00+01:00	12.406266849057833
+250	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-03-29 00:00:00+01:00	7.66274736213121
+251	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-04-05 00:00:00+02:00	8.13265936055844
+252	DEBB086	Brandenburg - Blankenfelde-Mahlow - Schulstr.	2020-04-12 00:00:00+02:00	1.4142135623730951
+253	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-02-02 00:00:00+01:00	1.4836060651405207
+254	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-02-09 00:00:00+01:00	3.7634228924867297
+255	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-02-16 00:00:00+01:00	5.378290168128896
+256	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-02-23 00:00:00+01:00	3.1971113904942112
+257	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-03-01 00:00:00+01:00	5.381589501281935
+258	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-03-08 00:00:00+01:00	7.567935351211986
+259	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-03-15 00:00:00+01:00	6.309521253987465
+260	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-03-22 00:00:00+01:00	11.73935648838007
+261	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-03-29 00:00:00+01:00	5.939113428887256
+262	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-04-05 00:00:00+02:00	5.99987374515458
+263	DEBB092	Brandenburg - Frankfurt (Oder) - Im Sande	2020-04-12 00:00:00+02:00	0.0
+264	DEBB109	Brandenburg - Luckenwalde	2020-02-02 00:00:00+01:00	2.0216222500109
+265	DEBB109	Brandenburg - Luckenwalde	2020-02-09 00:00:00+01:00	5.087062793987741
+266	DEBB109	Brandenburg - Luckenwalde	2020-02-16 00:00:00+01:00	6.571171130199314
+267	DEBB109	Brandenburg - Luckenwalde	2020-02-23 00:00:00+01:00	3.5952902611042545
+268	DEBB109	Brandenburg - Luckenwalde	2020-03-01 00:00:00+01:00	5.0098704968501515
+269	DEBB109	Brandenburg - Luckenwalde	2020-03-08 00:00:00+01:00	5.175064690779202
+270	DEBB109	Brandenburg - Luckenwalde	2020-03-15 00:00:00+01:00	5.456675409972409
+271	DEBB109	Brandenburg - Luckenwalde	2020-03-22 00:00:00+01:00	9.613017618627705
+272	DEBB109	Brandenburg - Luckenwalde	2020-03-29 00:00:00+01:00	6.822494061693675
+273	DEBB109	Brandenburg - Luckenwalde	2020-04-05 00:00:00+02:00	6.659053430199825
+274	DEBB109	Brandenburg - Luckenwalde	2020-04-12 00:00:00+02:00	4.949747468305833
+275	DEBB110	Brandenburg - Dallgow-Döberitz	2020-02-02 00:00:00+01:00	1.668115312456598
+276	DEBB110	Brandenburg - Dallgow-Döberitz	2020-02-09 00:00:00+01:00	6.567931527573823
+277	DEBB110	Brandenburg - Dallgow-Döberitz	2020-02-16 00:00:00+01:00	5.666520947823655
+278	DEBB110	Brandenburg - Dallgow-Döberitz	2020-02-23 00:00:00+01:00	3.090844856600445
+279	DEBB110	Brandenburg - Dallgow-Döberitz	2020-03-01 00:00:00+01:00	7.0905157399724255
+280	DEBB110	Brandenburg - Dallgow-Döberitz	2020-03-08 00:00:00+01:00	10.008976225147263
+281	DEBB110	Brandenburg - Dallgow-Döberitz	2020-03-15 00:00:00+01:00	5.188503493450795
+282	DEBB110	Brandenburg - Dallgow-Döberitz	2020-03-22 00:00:00+01:00	10.330395596042374
+283	DEBB110	Brandenburg - Dallgow-Döberitz	2020-03-29 00:00:00+01:00	10.6301254522606
+284	DEBB110	Brandenburg - Dallgow-Döberitz	2020-04-05 00:00:00+02:00	5.2174247712092425
+285	DEBB110	Brandenburg - Dallgow-Döberitz	2020-04-12 00:00:00+02:00	0.0
+286	mc010	Berlin - Amrumer Straße	2020-02-02 00:00:00+01:00	14.485374933239449
+287	mc010	Berlin - Amrumer Straße	2020-02-09 00:00:00+01:00	13.807021382757735
+288	mc010	Berlin - Amrumer Straße	2020-02-16 00:00:00+01:00	9.840285749341433
+289	mc010	Berlin - Amrumer Straße	2020-02-23 00:00:00+01:00	9.420680222468345
+290	mc010	Berlin - Amrumer Straße	2020-03-01 00:00:00+01:00	11.130860928644806
+291	mc010	Berlin - Amrumer Straße	2020-03-08 00:00:00+01:00	10.690951466453404
+292	mc010	Berlin - Amrumer Straße	2020-03-15 00:00:00+01:00	12.081339566590723
+293	mc010	Berlin - Amrumer Straße	2020-03-22 00:00:00+01:00	18.461474714006567
+294	mc010	Berlin - Amrumer Straße	2020-03-29 00:00:00+01:00	8.653016204826717
+295	mc010	Berlin - Amrumer Straße	2020-04-05 00:00:00+02:00	14.4443412349159
+296	mc010	Berlin - Amrumer Straße	2020-04-12 00:00:00+02:00	1.4142135623730951
+297	mc018	Berlin - Belziger Straße	2020-02-02 00:00:00+01:00	6.117064513381363
+298	mc018	Berlin - Belziger Straße	2020-02-09 00:00:00+01:00	12.06828778256682
+299	mc018	Berlin - Belziger Straße	2020-02-16 00:00:00+01:00	9.801968018924828
+300	mc018	Berlin - Belziger Straße	2020-02-23 00:00:00+01:00	8.934989994025043
+301	mc018	Berlin - Belziger Straße	2020-03-01 00:00:00+01:00	9.841238672758633
+302	mc018	Berlin - Belziger Straße	2020-03-08 00:00:00+01:00	11.190969103758551
+303	mc018	Berlin - Belziger Straße	2020-03-15 00:00:00+01:00	11.215777787725996
+304	mc018	Berlin - Belziger Straße	2020-03-22 00:00:00+01:00	17.725229662329255
+305	mc018	Berlin - Belziger Straße	2020-03-29 00:00:00+01:00	10.720785812952567
+306	mc018	Berlin - Belziger Straße	2020-04-05 00:00:00+02:00	13.483714584869078
+307	mc018	Berlin - Belziger Straße	2020-04-12 00:00:00+02:00	0.0
+308	mc027	Berlin - Schichauweg	2020-02-02 00:00:00+01:00	2.0211741457717673
+309	mc027	Berlin - Schichauweg	2020-02-09 00:00:00+01:00	5.9917132205067185
+310	mc027	Berlin - Schichauweg	2020-02-16 00:00:00+01:00	6.2312077730211355
+311	mc027	Berlin - Schichauweg	2020-02-23 00:00:00+01:00	4.1494049156120845
+312	mc027	Berlin - Schichauweg	2020-03-01 00:00:00+01:00	7.567197304808446
+313	mc027	Berlin - Schichauweg	2020-03-08 00:00:00+01:00	7.506202862737952
+314	mc027	Berlin - Schichauweg	2020-03-15 00:00:00+01:00	3.877669500449592
+315	mc027	Berlin - Schichauweg	2020-03-22 00:00:00+01:00	10.55610401393767
+316	mc027	Berlin - Schichauweg	2020-03-29 00:00:00+01:00	11.379059578647524
+317	mc027	Berlin - Schichauweg	2020-04-05 00:00:00+02:00	10.406068314400745
+318	mc027	Berlin - Schichauweg	2020-04-12 00:00:00+02:00	0.7071067811865476
+319	mc032	Berlin - Forst Grunewald	2020-02-02 00:00:00+01:00	0.944089163069933
+320	mc032	Berlin - Forst Grunewald	2020-02-09 00:00:00+01:00	7.854972870888557
+321	mc032	Berlin - Forst Grunewald	2020-02-16 00:00:00+01:00	5.033500606540431
+322	mc032	Berlin - Forst Grunewald	2020-02-23 00:00:00+01:00	4.2294766879476
+323	mc032	Berlin - Forst Grunewald	2020-03-01 00:00:00+01:00	5.308114205496279
+324	mc032	Berlin - Forst Grunewald	2020-03-08 00:00:00+01:00	7.755348054009992
+325	mc032	Berlin - Forst Grunewald	2020-03-15 00:00:00+01:00	6.556191562084052
+326	mc032	Berlin - Forst Grunewald	2020-03-22 00:00:00+01:00	12.34735647295628
+327	mc032	Berlin - Forst Grunewald	2020-03-29 00:00:00+01:00	6.378410420853718
+328	mc032	Berlin - Forst Grunewald	2020-04-05 00:00:00+02:00	5.743929664212591
+329	mc032	Berlin - Forst Grunewald	2020-04-12 00:00:00+02:00	0.0
+330	mc042	Berlin - Nansenstraße	2020-02-02 00:00:00+01:00	10.155226397693248
+331	mc042	Berlin - Nansenstraße	2020-02-09 00:00:00+01:00	9.948525560162905
+332	mc042	Berlin - Nansenstraße	2020-02-16 00:00:00+01:00	10.43410259171386
+333	mc042	Berlin - Nansenstraße	2020-02-23 00:00:00+01:00	8.017039605206847
+334	mc042	Berlin - Nansenstraße	2020-03-01 00:00:00+01:00	10.557263029798657
+335	mc042	Berlin - Nansenstraße	2020-03-08 00:00:00+01:00	12.129221490765838
+336	mc042	Berlin - Nansenstraße	2020-03-15 00:00:00+01:00	12.27758093887765
+337	mc042	Berlin - Nansenstraße	2020-03-22 00:00:00+01:00	18.557699177370125
+338	mc042	Berlin - Nansenstraße	2020-03-29 00:00:00+01:00	7.118932923889842
+339	mc042	Berlin - Nansenstraße	2020-04-05 00:00:00+02:00	12.072098367981068
+340	mc042	Berlin - Nansenstraße	2020-04-12 00:00:00+02:00	0.7071067811865476
+341	mc077	Berlin - Hobrechtsfelder Chaussee	2020-02-02 00:00:00+01:00	5.329708913388167
+342	mc077	Berlin - Hobrechtsfelder Chaussee	2020-02-09 00:00:00+01:00	7.707833256648994
+343	mc077	Berlin - Hobrechtsfelder Chaussee	2020-02-16 00:00:00+01:00	8.428743155425027
+344	mc077	Berlin - Hobrechtsfelder Chaussee	2020-02-23 00:00:00+01:00	8.382903334835069
+345	mc077	Berlin - Hobrechtsfelder Chaussee	2020-03-01 00:00:00+01:00	7.8666168871332935
+346	mc077	Berlin - Hobrechtsfelder Chaussee	2020-03-08 00:00:00+01:00	10.146613771567825
+347	mc077	Berlin - Hobrechtsfelder Chaussee	2020-03-15 00:00:00+01:00	10.687087371121633
+348	mc077	Berlin - Hobrechtsfelder Chaussee	2020-03-22 00:00:00+01:00	14.601767080426338
+349	mc077	Berlin - Hobrechtsfelder Chaussee	2020-03-29 00:00:00+01:00	4.968944435695719
+350	mc077	Berlin - Hobrechtsfelder Chaussee	2020-04-05 00:00:00+02:00	8.832859669319339
+351	mc077	Berlin - Hobrechtsfelder Chaussee	2020-04-12 00:00:00+02:00	0.0
+352	mc085	Berlin - Müggelseedamm	2020-02-02 00:00:00+01:00	5.034482544686557
+353	mc085	Berlin - Müggelseedamm	2020-02-09 00:00:00+01:00	5.90012588533578
+354	mc085	Berlin - Müggelseedamm	2020-02-16 00:00:00+01:00	8.677928560398437
+355	mc085	Berlin - Müggelseedamm	2020-02-23 00:00:00+01:00	3.263185837155608
+356	mc085	Berlin - Müggelseedamm	2020-03-01 00:00:00+01:00	7.717988548400698
+357	mc085	Berlin - Müggelseedamm	2020-03-08 00:00:00+01:00	6.930415065474418
+358	mc085	Berlin - Müggelseedamm	2020-03-15 00:00:00+01:00	5.812532545388021
+359	mc085	Berlin - Müggelseedamm	2020-03-22 00:00:00+01:00	9.611935714313773
+360	mc085	Berlin - Müggelseedamm	2020-03-29 00:00:00+01:00	4.160754604874887
+361	mc085	Berlin - Müggelseedamm	2020-04-05 00:00:00+02:00	8.957970959469108
+362	mc085	Berlin - Müggelseedamm	2020-04-12 00:00:00+02:00	0.7071067811865476
+363	mc115	Berlin - Hardenbergplatz	2020-02-02 00:00:00+01:00	12.474248837423879
+364	mc115	Berlin - Hardenbergplatz	2020-02-09 00:00:00+01:00	15.43855500395708
+365	mc115	Berlin - Hardenbergplatz	2020-02-16 00:00:00+01:00	13.13714093894442
+366	mc115	Berlin - Hardenbergplatz	2020-02-23 00:00:00+01:00	15.515102918914774
+367	mc115	Berlin - Hardenbergplatz	2020-03-01 00:00:00+01:00	14.060816163485944
+368	mc115	Berlin - Hardenbergplatz	2020-03-08 00:00:00+01:00	13.579907455969241
+369	mc115	Berlin - Hardenbergplatz	2020-03-15 00:00:00+01:00	13.633221943694668
+370	mc115	Berlin - Hardenbergplatz	2020-03-22 00:00:00+01:00	18.926201070381815
+371	mc115	Berlin - Hardenbergplatz	2020-03-29 00:00:00+01:00	11.030797513725826
+372	mc115	Berlin - Hardenbergplatz	2020-04-05 00:00:00+02:00	11.207369192794642
+373	mc115	Berlin - Hardenbergplatz	2020-04-12 00:00:00+02:00	6.363961030678928
+374	mc117	Berlin - Schildhornstraße	2020-02-02 00:00:00+01:00	10.36289017377021
+375	mc117	Berlin - Schildhornstraße	2020-02-09 00:00:00+01:00	17.10186442327882
+376	mc117	Berlin - Schildhornstraße	2020-02-16 00:00:00+01:00	16.266747223012697
+377	mc117	Berlin - Schildhornstraße	2020-02-23 00:00:00+01:00	14.679397438352922
+378	mc117	Berlin - Schildhornstraße	2020-03-01 00:00:00+01:00	18.1756761257648
+379	mc117	Berlin - Schildhornstraße	2020-03-08 00:00:00+01:00	16.988695313739484
+380	mc117	Berlin - Schildhornstraße	2020-03-15 00:00:00+01:00	17.058674871301694
+381	mc117	Berlin - Schildhornstraße	2020-03-22 00:00:00+01:00	22.27349212085662
+382	mc117	Berlin - Schildhornstraße	2020-03-29 00:00:00+01:00	14.398024364129345
+383	mc117	Berlin - Schildhornstraße	2020-04-05 00:00:00+02:00	15.72934167220592
+384	mc117	Berlin - Schildhornstraße	2020-04-12 00:00:00+02:00	1.4142135623730951
+385	mc124	Berlin - Mariendorfer Damm	2020-02-02 00:00:00+01:00	18.901297785364225
+386	mc124	Berlin - Mariendorfer Damm	2020-02-09 00:00:00+01:00	18.69098640056688
+387	mc124	Berlin - Mariendorfer Damm	2020-02-16 00:00:00+01:00	16.179171968616377
+388	mc124	Berlin - Mariendorfer Damm	2020-02-23 00:00:00+01:00	16.234077457742256
+389	mc124	Berlin - Mariendorfer Damm	2020-03-01 00:00:00+01:00	21.704675102388805
+390	mc124	Berlin - Mariendorfer Damm	2020-03-08 00:00:00+01:00	18.560216570163604
+391	mc124	Berlin - Mariendorfer Damm	2020-03-15 00:00:00+01:00	17.681667121661853
+392	mc124	Berlin - Mariendorfer Damm	2020-03-22 00:00:00+01:00	25.2096796947236
+393	mc124	Berlin - Mariendorfer Damm	2020-03-29 00:00:00+01:00	11.70682234600807
+394	mc124	Berlin - Mariendorfer Damm	2020-04-05 00:00:00+02:00	18.013437444625296
+395	mc124	Berlin - Mariendorfer Damm	2020-04-12 00:00:00+02:00	0.7071067811865476
+396	mc143	Berlin - Silbersteinstraße	2020-02-02 00:00:00+01:00	13.548022477228116
+397	mc143	Berlin - Silbersteinstraße	2020-02-09 00:00:00+01:00	17.516376914830655
+398	mc143	Berlin - Silbersteinstraße	2020-02-16 00:00:00+01:00	14.811271308161738
+399	mc143	Berlin - Silbersteinstraße	2020-02-23 00:00:00+01:00	15.703192289317412
+400	mc143	Berlin - Silbersteinstraße	2020-03-01 00:00:00+01:00	17.38136188001694
+401	mc143	Berlin - Silbersteinstraße	2020-03-08 00:00:00+01:00	17.162135255051716
+402	mc143	Berlin - Silbersteinstraße	2020-03-15 00:00:00+01:00	16.971942023166818
+403	mc143	Berlin - Silbersteinstraße	2020-03-22 00:00:00+01:00	21.39364981564924
+404	mc143	Berlin - Silbersteinstraße	2020-03-29 00:00:00+01:00	16.25918117129434
+405	mc143	Berlin - Silbersteinstraße	2020-04-05 00:00:00+02:00	18.669430067562836
+406	mc143	Berlin - Silbersteinstraße	2020-04-12 00:00:00+02:00	0.0
+407	mc145	Berlin - Frohnau - Jägerstieg	2020-02-02 00:00:00+01:00	1.5030162910010303
+408	mc145	Berlin - Frohnau - Jägerstieg	2020-02-09 00:00:00+01:00	6.980896769238401
+409	mc145	Berlin - Frohnau - Jägerstieg	2020-02-16 00:00:00+01:00	7.232915187654368
+410	mc145	Berlin - Frohnau - Jägerstieg	2020-02-23 00:00:00+01:00	5.383761451635921
+411	mc145	Berlin - Frohnau - Jägerstieg	2020-03-01 00:00:00+01:00	6.112422200822383
+412	mc145	Berlin - Frohnau - Jägerstieg	2020-03-08 00:00:00+01:00	6.753735469288127
+413	mc145	Berlin - Frohnau - Jägerstieg	2020-03-15 00:00:00+01:00	6.050751681564007
+414	mc145	Berlin - Frohnau - Jägerstieg	2020-03-22 00:00:00+01:00	8.64352744395104
+415	mc145	Berlin - Frohnau - Jägerstieg	2020-03-29 00:00:00+01:00	4.960096986128521
+416	mc145	Berlin - Frohnau - Jägerstieg	2020-04-05 00:00:00+02:00	4.997546567878404
+417	mc145	Berlin - Frohnau - Jägerstieg	2020-04-12 00:00:00+02:00	0.7071067811865476
+418	mc171	Berlin - Brückenstraße	2020-02-02 00:00:00+01:00	5.0983088983689875
+419	mc171	Berlin - Brückenstraße	2020-02-09 00:00:00+01:00	10.304322900150568
+420	mc171	Berlin - Brückenstraße	2020-02-16 00:00:00+01:00	9.848719846187912
+421	mc171	Berlin - Brückenstraße	2020-02-23 00:00:00+01:00	7.786909335651682
+422	mc171	Berlin - Brückenstraße	2020-03-01 00:00:00+01:00	9.714831875486901
+423	mc171	Berlin - Brückenstraße	2020-03-08 00:00:00+01:00	10.363068538061754
+424	mc171	Berlin - Brückenstraße	2020-03-15 00:00:00+01:00	10.234312661843855
+425	mc171	Berlin - Brückenstraße	2020-03-22 00:00:00+01:00	15.997637084932379
+426	mc171	Berlin - Brückenstraße	2020-03-29 00:00:00+01:00	6.4251305328733554
+427	mc171	Berlin - Brückenstraße	2020-04-05 00:00:00+02:00	9.467735262790637
+428	mc171	Berlin - Brückenstraße	2020-04-12 00:00:00+02:00	0.0
+429	mc174	Berlin - Frankfurter Allee	2020-02-02 00:00:00+01:00	15.979730243534354
+430	mc174	Berlin - Frankfurter Allee	2020-02-09 00:00:00+01:00	17.23213670733922
+431	mc174	Berlin - Frankfurter Allee	2020-02-16 00:00:00+01:00	14.574173106530962
+432	mc174	Berlin - Frankfurter Allee	2020-02-23 00:00:00+01:00	15.740000378621946
+433	mc174	Berlin - Frankfurter Allee	2020-03-01 00:00:00+01:00	17.436539083695266
+434	mc174	Berlin - Frankfurter Allee	2020-03-08 00:00:00+01:00	15.287240029756918
+435	mc174	Berlin - Frankfurter Allee	2020-03-15 00:00:00+01:00	16.754844178897027
+436	mc174	Berlin - Frankfurter Allee	2020-03-22 00:00:00+01:00	23.680165734513306
+437	mc174	Berlin - Frankfurter Allee	2020-03-29 00:00:00+01:00	14.170197160859823
+438	mc174	Berlin - Frankfurter Allee	2020-04-05 00:00:00+02:00	15.129907441750058
+439	mc174	Berlin - Frankfurter Allee	2020-04-12 00:00:00+02:00	1.4142135623730951
+440	mc220	Berlin - Karl-Marx-Straße	2020-02-02 00:00:00+01:00	20.157352023014088
+441	mc220	Berlin - Karl-Marx-Straße	2020-02-09 00:00:00+01:00	20.102428755231013
+442	mc220	Berlin - Karl-Marx-Straße	2020-02-16 00:00:00+01:00	19.320022681081806
+443	mc220	Berlin - Karl-Marx-Straße	2020-02-23 00:00:00+01:00	18.78520551904951
+444	mc220	Berlin - Karl-Marx-Straße	2020-03-01 00:00:00+01:00	20.164760352173825
+445	mc220	Berlin - Karl-Marx-Straße	2020-03-08 00:00:00+01:00	18.82091853821657
+446	mc220	Berlin - Karl-Marx-Straße	2020-03-15 00:00:00+01:00	18.704982645973327
+447	mc220	Berlin - Karl-Marx-Straße	2020-03-22 00:00:00+01:00	28.350815997648752
+448	mc220	Berlin - Karl-Marx-Straße	2020-03-29 00:00:00+01:00	11.736600817193125
+449	mc220	Berlin - Karl-Marx-Straße	2020-04-05 00:00:00+02:00	16.475871686380874
+450	mc220	Berlin - Karl-Marx-Straße	2020-04-12 00:00:00+02:00	0.7071067811865476
+451	mc282	Berlin - Rheingoldstraße	2020-02-02 00:00:00+01:00	7.851428375539822
+452	mc282	Berlin - Rheingoldstraße	2020-02-09 00:00:00+01:00	8.364633999207435
+453	mc282	Berlin - Rheingoldstraße	2020-02-16 00:00:00+01:00	9.189275243625342
+454	mc282	Berlin - Rheingoldstraße	2020-02-23 00:00:00+01:00	6.543658625451382
+455	mc282	Berlin - Rheingoldstraße	2020-03-01 00:00:00+01:00	9.90670588540194
+456	mc282	Berlin - Rheingoldstraße	2020-03-08 00:00:00+01:00	11.699910374267695
+457	mc282	Berlin - Rheingoldstraße	2020-03-15 00:00:00+01:00	11.421532957284656
+458	mc282	Berlin - Rheingoldstraße	2020-03-22 00:00:00+01:00	17.731572062249363
+459	mc282	Berlin - Rheingoldstraße	2020-03-29 00:00:00+01:00	9.546864627908082
+460	mc282	Berlin - Rheingoldstraße	2020-04-05 00:00:00+02:00	13.363590797619144
+461	mc282	Berlin - Rheingoldstraße	2020-04-12 00:00:00+02:00	0.7071067811865476
+462	mw088	Berlin - Leipziger Straße (Messwagen)	2020-02-02 00:00:00+01:00	8.812047089810827
+463	mw088	Berlin - Leipziger Straße (Messwagen)	2020-02-09 00:00:00+01:00	15.33375368251388
+464	mw088	Berlin - Leipziger Straße (Messwagen)	2020-02-16 00:00:00+01:00	13.777688102181505
+465	mw088	Berlin - Leipziger Straße (Messwagen)	2020-02-23 00:00:00+01:00	14.533274712752933
+466	mw088	Berlin - Leipziger Straße (Messwagen)	2020-03-01 00:00:00+01:00	17.36117007205843
+467	mw088	Berlin - Leipziger Straße (Messwagen)	2020-03-08 00:00:00+01:00	15.662085140903706
+468	mw088	Berlin - Leipziger Straße (Messwagen)	2020-03-15 00:00:00+01:00	15.344902662964298
+469	mw088	Berlin - Leipziger Straße (Messwagen)	2020-03-22 00:00:00+01:00	19.824453881623672
+470	mw088	Berlin - Leipziger Straße (Messwagen)	2020-03-29 00:00:00+01:00	14.059169550411044
+471	mw088	Berlin - Leipziger Straße (Messwagen)	2020-04-05 00:00:00+02:00	12.666766440164968
+472	mw088	Berlin - Leipziger Straße (Messwagen)	2020-04-12 00:00:00+02:00	0.7071067811865476
